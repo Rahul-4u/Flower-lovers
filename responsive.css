@@ -33,10 +33,13 @@
     .banner-left{
   
       max-width: 100%;
+      text-align: center !important;
     }
     .banner-left h1{
-      font-size: 36px;
-      line-height: 40px;
+      font-size: 33px;
+      line-height: 35px;
+      text-align: center;
+      padding: 0;
     }
     .banner-left button{
       max-width: 40%;
@@ -49,7 +52,7 @@
       margin-top: 2px;
     }
     .flower-text{
-      width: 80%;
+      width: 92%;
       margin-left: 0;
       text-align: center;
     }
@@ -72,8 +75,8 @@
     }
     .img-1, .img-2, .img-3{
       border-radius: 0;
-      width: 400px;
-      height: auto;
+      width: 350px;
+      height: 300px;
       margin-bottom: 10px;
       margin-left: 0;
       
